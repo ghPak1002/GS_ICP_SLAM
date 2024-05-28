@@ -35,7 +35,7 @@ So users need to install only 'diff-gaussian-rasterization' and 'simple_knn' sub
 # In docker container
 cd /home/GS_ICP_SLAM
 pip install submodules/diff-gaussian-rasterization
-pip install submodules/simple_knn
+pip install submodules/simple-knn
 ```
 
 ## Edit dataset directory
